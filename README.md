@@ -2,7 +2,7 @@
 
 <div align="center">
   
-**iris petal sepalの説明**
+
 ![Iris](https://github.com/user-attachments/assets/327b2836-3686-40f6-87d9-e6a16d77feb5)  
 
 **K近傍法（KNN）**  
